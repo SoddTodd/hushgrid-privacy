@@ -1,51 +1,58 @@
-# Privacy Policy – HushGrid
+# Privacy Policy — HushGrid and HushGrid Plus
 
-Last updated: February 2026
+Last updated: March 31, 2026
 
 ## Overview
 
-HushGrid respects your privacy.
+This Privacy Policy applies to both apps:
+- HushGrid
+- HushGrid Plus
 
-This app does not collect, store, or share any personal data.
-
+We respect your privacy.  
+Our apps are designed to work without accounts, tracking, or analytics.
 
 ## Data Collection
 
-HushGrid:
+HushGrid and HushGrid Plus:
 
-- Does not collect personal information
-- Does not use analytics
-- Does not use tracking technologies
-- Does not require user accounts
-- Does not transmit data to external servers
+- do not collect personal information
+- do not use analytics or tracking technologies
+- do not require user accounts
+- do not transmit your recordings to external servers by default
 
-All audio recordings and sessions remain stored locally on your device.
+Audio recordings, imported sounds, and session mixes are stored locally on your device.
 
+## Microphone Access
 
-## Purchases
+Microphone permission is used only to record audio into pads and session mixes.
 
-If you choose to support HushGrid through optional in-app tips, payments are processed securely by Apple via the App Store.
+## File Access (HushGrid Plus)
 
-HushGrid does not have access to your payment information.
+HushGrid Plus can import audio files you select from the Files app.  
+File access is used only to import sounds into pads and is initiated by you.
 
+## Sharing
+
+If you export or share audio, this action is initiated by you using iOS sharing tools.
+
+## In-App Purchases
+
+Optional purchases are processed by Apple through StoreKit.  
+We do not receive your payment card details.
 
 ## Third-Party Services
 
-HushGrid relies only on Apple's system frameworks (such as audio and in-app purchases).
+We rely on Apple system frameworks for audio and purchases.  
+No third-party analytics or advertising SDKs are integrated.
 
-No third-party SDKs are integrated.
+## Children’s Privacy
 
-
-## Children's Privacy
-
-HushGrid does not knowingly collect data from anyone, including children under 13.
-
+We do not knowingly collect personal data from anyone, including children under 13.
 
 ## Changes to This Policy
 
-If the privacy policy changes in the future, updates will be reflected on this page.
-
+If this policy changes, updates will be published on this page with a new “Last updated” date.
 
 ## Contact
 
-If you have questions regarding this policy, you may contact the developer through the App Store listing.
+If you have privacy questions, contact the developer through the App Store listing.
